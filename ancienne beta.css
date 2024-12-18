@@ -1,0 +1,78 @@
+.menuHaut{
+    background-color:black;
+    text-align: center
+    padding  0 00px; 
+
+  
+  }
+  
+  .menuHaut a {
+      text-decoration:none;
+      color: white;
+      font-size: 2em;
+     text-align: center;
+     font-family: "Bokor", system-ui;
+     margin: 7vh;
+     font-weight: bold;
+  }
+
+  .body{
+    background-image: url(fondbéta.jpg) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+
+
+}
+
+.titrebeta{
+
+  color: white;
+  font-family: "Bokor", system-ui;
+  font-size: 3vh;
+  font-weight: bold;
+  left: 10vh;
+  position: absolute;
+}
+
+.betatext{
+  color: white;
+  font-size: 2vh;
+  left: 10vh;
+  position: absolute;
+  font-weight: bold;
+  top: 20vh;
+  box-shadow:  5px 5px 1px white;
+  
+}
+
+.li{
+  color: white;
+  font-size: 160%;
+  position: absolute;
+font-weight: bold;
+right: 2vh;
+}
+
+.maplist{
+  color: white;
+  font-size: 2vh;
+  position: absolute;
+font-weight: bold;
+position: absolute;
+top: 45vh;
+left: 10vh;
+}
+
+.mapbeta{
+  position: absolute; 
+  left: 65vh;
+  top: 48vh;
+}
+
+.mapbeta2{
+  position: absolute; 
+  left: 83vh;
+  top: 48vh;
+}
+

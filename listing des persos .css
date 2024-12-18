@@ -1,0 +1,174 @@
+.menuHaut{
+    background-color:black;
+    text-align: center
+    padding  0 0vh; 
+
+  
+  }
+  
+  .menuHaut a {
+      text-decoration:none;
+      color: white;
+      font-size: 2em;
+     text-align: center;
+     font-family: "Bokor", system-ui;
+     margin: 70px;
+     font-weight: bold;
+  
+  }
+
+body {
+    background-attachment: fixed;
+   background-image: url(fond3.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-color: black;
+}
+
+.card1{
+transform: translate(100px,200px);
+
+
+}
+
+.card2 {
+  transform: translate(350px,-113px);
+}
+
+.card3{
+  transform: translate(100px,-90px);
+}
+
+.card4{
+  transform: translate(350px,-403px);
+}
+
+.card5{
+  transform: translate(100px,-376px);
+}
+
+.card6{
+  transform: translate(100px,-350px);
+}
+
+.card7 {
+  transform: translate(350px,-1005px);
+}
+
+.Tank {
+  color: white;
+  font-weight: bold;
+  font-family: "Bokor", system-ui;
+transform: translate(260px,-2200px);
+font-size: 40px;
+}
+
+.card8{
+  transform: translate(700px,-2200px);
+}
+
+.card9 {
+  transform: translate(700px,-2173px);
+}
+
+.card10{
+  transform: translate(700px,-2147px);
+}
+
+.card11{
+  transform: translate(700px,-2125px);
+}
+
+.card12{
+  left: 709px;
+  top: 1613px;
+  position: absolute;
+
+}
+
+.card13{
+  left: 987px;
+  top: 263px;
+  position: absolute;
+}
+
+.card14{
+  left: 987px;
+  top: 600px;
+  position: absolute;
+}
+
+.card15{
+  left: 987px;
+  top: 940px;
+  position: absolute;
+}
+
+.card16{
+  left: 987px;
+  top: 1274px;
+  position: absolute;
+}
+
+.card17{
+  left: 987px;
+  top: 1615px;
+  position: absolute;
+}
+
+.duellist{
+  color: white;
+  font-weight: bold;
+  font-family: "Bokor", system-ui;
+position: absolute;
+font-size: 40px;
+top: 60px;
+right: 850px;
+}
+
+
+.card18{
+position: absolute;
+right: 340px;
+top: 267px;
+}
+
+.card19{
+  position: absolute;
+  right: 340px;
+  top: 605px;
+  }
+
+  .card20{
+    position: absolute;
+    right: 340px;
+    top: 948px;
+    }
+
+    .card21{
+      position: absolute;
+      right: 100px;
+      top: 267px;
+      } 
+      
+      .card22{
+        position: absolute;
+        right: 100px;
+        top: 608px;
+        }   
+        
+        .card23{
+          position: absolute;
+          right: 100px;
+          top: 948px;
+          } 
+
+.Healer{
+  color: white;
+  font-weight: bold;
+  font-family: "Bokor", system-ui;
+position: absolute;
+font-size: 40px;
+top: 60px;
+right: 250px;
+}
